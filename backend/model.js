@@ -42,7 +42,7 @@ const applicationSchema = new mongoose.Schema({
         type:String,
         required:true,
     },
-    Number:{
+    number:{
         type:String,
         required:true,
     },
